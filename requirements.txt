@@ -7,3 +7,9 @@ ipykernel==6.29.3
 pandas==2.2.1
 mpld3==0.5.10
 python-crfsuite==0.9.10
+aspose-words==24.4.0
+sentence-transformers==2.7.0
+keybert==0.8.4
+bertopic==0.16.1
+datasets==2.19.0
+nbformat==5.10.4
